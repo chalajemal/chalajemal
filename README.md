@@ -1,6 +1,6 @@
 <div align="center">
 
-https://komarev.com/ghpvc/?username=chalajemal
+![](https://komarev.com/ghpvc/?username=chalajemal)
 
 </div>
 
